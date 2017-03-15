@@ -1,0 +1,5 @@
+server:
+  address: 127.0.0.1
+  port: 9090
+registry:
+  servers: 192.168.118.10:2181
