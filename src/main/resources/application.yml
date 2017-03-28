@@ -1,5 +1,23 @@
-server:
-  address: 127.0.0.1
-  port: 9090
-registry:
-  servers: 192.168.118.10:2181
+server.port: 3010 # 2BCD:2001=ZK;2002=CONF;2003=CA;3BCD=API;4BCD=UI
+#spring.profiles: default
+#xk.msa.ca.security.jwt:
+#  tokenExpirationTime: 15 # Number of minutes
+#  refreshTokenExpTime: 60 # Minutes
+#  tokenIssuer: http://360ser.com
+#  tokenSigningKey: xkhasanxm8EV6Hy5RMFK4EEACIDAwQus
+  
+#spring.datasource: 
+#  url: jdbc:mysql://192.168.118.10:3306/testsm?useUnicode=true&useSSL=false
+#  username: root
+#  password: "!Qaz2wsx"
+#  driver-class-name: com.mysql.jdbc.Driver
+#spring.datasource: 
+#  url: jdbc:jtds:sqlserver://sp502876b549535.sqlserver.rds.aliyuncs.com:3433;DatabaseName=yhxsr
+#  username: yhxprivate
+#  password: "yhx@Private"
+#  driver-class-name: net.sourceforge.jtds.jdbc.Driver
+
+  
+  
+  
+  
